@@ -13,5 +13,4 @@ Processing that would receive data from the buggy and send commands to it. The s
 challenge took this concept one step further and tasked us with implementing a PID controller to
 allow the buggy to follow an object at a safe distance. The gold challenge was more open ended
 and only required that we make use of the IMU, everything else was left to our imagination.
-However due to unfortunate circumstances, our group could not attempt the gold challenge. But
-bronze and silver were attempted and completed
+
